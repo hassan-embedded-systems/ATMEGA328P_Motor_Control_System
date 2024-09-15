@@ -2,7 +2,7 @@
  * motor_drive.c
  *
  * Created: 9/15/2024 10:05:22 AM
- * Author : digital
+ * Author : Hassan Abdul-razeq
  */ 
 #define F_CPU 16000000
 #include "Motor_interface.h"
